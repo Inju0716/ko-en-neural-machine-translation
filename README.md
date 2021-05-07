@@ -1,1 +1,15 @@
 # ko-en-neural-machine-translation
+
+## 1. 3_Models.ipynb
+- 3가지 모델을 이용하여 한국어-영어 번역 모델 구축 
+  - Packed Padded Encoder-Decoder
+  - Convolutional Sequence-to-Sequence
+  - Transformers
+
+## 2. Huggingface_Pretrained_Model.ipynb
+- 허깅페이스 "Marian MT based Helsinki-NLP/opus-mt-ko-en" 사전학습 모델을 이용하여 한국어-영어 번역 모델 구축
+
+## 3. Model Code Reference
+  - https://github.com/bentrevett/pytorch-seq2seq
+  - https://rohit-agrawal.medium.com/using-fine-tuned-gensim-word2vec-embeddings-with-torchtext-and-pytorch-17eea2883cd
+  - https://pytorch.org/text/stable/index.html
