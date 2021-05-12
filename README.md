@@ -1,5 +1,6 @@
 # ko-en-neural-machine-translation
-
+  Contributiers: [박재은](https://github.com/JPark11), [이인주](https://github.com/Inju0716), [정윤원](https://github.com/yoonwonj)
+  
 ## 1. 3_Models.ipynb
 - 3가지 모델을 이용하여 한국어-영어 번역 모델 구축 
   - Packed Padded Encoder-Decoder
