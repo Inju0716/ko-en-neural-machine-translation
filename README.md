@@ -13,5 +13,7 @@
   - https://github.com/bentrevett/pytorch-seq2seq
   - https://rohit-agrawal.medium.com/using-fine-tuned-gensim-word2vec-embeddings-with-torchtext-and-pytorch-17eea2883cd
   - https://pytorch.org/text/stable/index.html
+  - https://huggingface.co/transformers/
   - https://github.com/osori/korean-romanizer
   - https://coding-groot.tistory.com/21
+
